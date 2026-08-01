@@ -57,7 +57,7 @@ Different pages use different query parameters:
 1. Clone this repository:
 
 ```bash
-git clone https://github.com/yourusername/google-search-clone.git
+git clone https://github.com/Behrad01/google-search-clone.git
 ```
 
 2. Open `index.html` in your browser.
