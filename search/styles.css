@@ -1,0 +1,72 @@
+.navbar {
+    text-align: right;
+    padding: 5px;
+    display: flex;
+}
+
+.navbar a
+{
+    padding: 5px;
+}
+
+#search-div
+{
+    text-align: center;
+    margin-top: 300px;
+}
+
+#button-div
+{
+    padding: 10px;
+}
+
+#search-box
+{
+    border-radius: 10px;
+    width: 350px;
+    height: 25px;
+}
+
+#submit-button-advanced
+{
+    width: 20%;
+    height: 5%;
+    color: white;
+    background-color: rgb(100, 160, 184);
+    border-radius: 5px;
+}
+
+#submit-button-advanced:hover
+{
+    background-color: blue;
+}
+
+#inputs-div
+{
+    text-align: left;
+}
+
+.advanced-divs
+{
+    padding: 10px;
+    margin: 20px;
+}
+
+.advanced-inputs
+{
+    width: 50%;
+    padding: 10px;
+}
+
+a {
+    text-decoration: none;
+    color: black;
+}
+
+#google-a
+{
+    font-weight: bold;
+    font-size: larger;
+    text-align: left;
+    margin-right: auto;
+}
